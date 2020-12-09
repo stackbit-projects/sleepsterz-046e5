@@ -77,5 +77,11 @@ sections:
         style: primary
     has_background: true
     background_color: gray
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 layout: advanced
 ---
